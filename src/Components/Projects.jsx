@@ -7,19 +7,19 @@ const projects = [
       "A a responsive task management app with sorting options for task prioritization (high, medium, low) to enhance usability across devices. Leveraged React’s state management for dynamic updates and Vite for optimized build times and hot module replacement, improving performance. Deployed on Netlify to enable continuous integration and delivery, ensuring smooth and seamless updates.",
     image:
       "https://images.pexels.com/photos/4439901/pexels-photo-4439901.jpeg?auto=compress&cs=tinysrgb&w=800",
-    tags: ["React", "JavaScript", "Tailwind", "EmailJs"],
+    tags: ["React", "JavaScript", "Tailwind", "MaterialUI"],
     github: "https://github.com/shahbazK010/To-do",
     demo: "https://to-doists.netlify.app/",
   },
   {
-    title: "Project Two",
+    title: "Portfolio",
     description:
       "An e-commerce platform with a modern UI, shopping cart functionality, and secure payment integration.",
     image:
       "https://eu-images.contentstack.com/v3/assets/blt892f41c9788ae399/blt359b7573743cbb3d/6578407cec5371040a94bb6b/frontend_developer_portfolio_main_banner.webp",
-    tags: ["React", "Tailwind CSS", "Stripe", "Firebase"],
-    github: "https://github.com",
-    demo: "https://example.com",
+    tags: ["React", "JavaScript", "Tailwind", "EmailJs", "ThreeJs"],
+    github: "https://github.com/shahbazK010/Portfolio",
+    demo: "https://sahabazkhan771.netlify.app",
   },
   // {
   //   title: "Project Two",
