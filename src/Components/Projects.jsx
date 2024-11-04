@@ -14,7 +14,7 @@ const projects = [
   {
     title: "Portfolio",
     description:
-      "An e-commerce platform with a modern UI, shopping cart functionality, and secure payment integration.",
+      "Project showcases a responsive web application developed using React and Vite for optimal performance. It features dynamic 3D visualizations powered by Three.js and employs Tailwind CSS for a modern, user-friendly interface. EmailJS is integrated to facilitate easy communication, enhancing user engagement. The design ensures accessibility across devices while highlighting a diverse portfolio of completed projects",
     image:
       "https://eu-images.contentstack.com/v3/assets/blt892f41c9788ae399/blt359b7573743cbb3d/6578407cec5371040a94bb6b/frontend_developer_portfolio_main_banner.webp",
     tags: ["React", "JavaScript", "Tailwind", "EmailJs", "ThreeJs"],
