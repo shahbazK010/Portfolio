@@ -35,7 +35,7 @@ const skills = [
     skills: [
       { name: "Python", icon: <Terminal className="w-5 h-5" /> },
       { name: "Node.js", icon: <Cpu className="w-5 h-5" /> },
-      { name: "Express(Baics)", icon: <Server className="w-5 h-5" /> },
+      { name: "Express(Basics)", icon: <Server className="w-5 h-5" /> },
     ],
   },
   {

@@ -1,7 +1,7 @@
 /* eslint-disable react/prop-types */
 import { motion } from "framer-motion";
 import {
-  Globe,
+  // Globe,
   Code,
   Database,
   GitBranch,
@@ -12,6 +12,7 @@ import {
   Server,
   Cloud,
   FileJson,
+  Command,
 } from "lucide-react";
 
 const SkillCard = ({ icon, name, delay }) => {
@@ -54,8 +55,8 @@ const skills = [
   { icon: <Cloud size={20} className="text-[#64ffda]" />, name: "AWS" },
   { icon: <GitBranch size={20} className="text-[#64ffda]" />, name: "Git" },
   {
-    icon: <Globe size={20} className="text-[#64ffda]" />,
-    name: "RESTful APIs",
+    icon: <Command size={20} className="text-[#64ffda]" />,
+    name: "Linux",
   },
 ];
 

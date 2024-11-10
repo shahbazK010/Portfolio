@@ -6,7 +6,7 @@ export function Hero() {
       <div className="absolute inset-0 top-[120px] max-w-7xl mx-auto px-4 flex flex-row items-start gap-5">
         <div className="flex flex-col justify-center items-center mt-5">
           <div className="w-5 h-5 rounded-full bg-[#915EFF]" />
-          <div className="w-z̄ sm:h-80 h-40 violet-gradient" />
+          <div className="w-[2px] sm:h-80 h-40 bg-gradient-to-b from-[#915EFF] to-transparent" />
         </div>
 
         <div>
